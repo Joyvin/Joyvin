@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://www.joyvin.tech/img/myLogo.png" alt="Logo">
 ![](https://www.joyvin.tech/img/myLogo.png) 
 <h1 align="center"> Hi 👋, I'm Joyvin Mendonca</h1>
 <h3 align="center">A passionate web and cloud developer from India</h3>
