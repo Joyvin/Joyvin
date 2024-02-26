@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Joyvin Mendonca</h1>
 <h3 align="center">A passionate web and cloud developer from India</h3>
 
+![](https://github-readme-stats.vercel.app/api?username=Joyvin&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 # 💫 About Me:
 
 🔭 I’m currently working on Virtual Lab CRCE<br>🌱 I’m currently learning Ethereum Smart Contracts<br>👨‍💻 All of my projects are available at joyvin.tech<br>📫 How to reach me joymendonca710@gmail.com
@@ -19,10 +21,6 @@
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Joyvin&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Joyvin&limit=8&theme=github_dark&combine_all_yearly_contributions=true&hide_border=false&border_radius=10)
 
 # ✨ Contribution Graph
 
