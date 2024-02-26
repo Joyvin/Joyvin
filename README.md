@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi 👋, I'm Joyvin Mendonca</h1>
-<h3 align="center">A passionate web and cloud developer from India</h3>]
+<h3 align="center">A passionate web and cloud developer from India</h3>
 
 # 💻 Tech Stack:
 
