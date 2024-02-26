@@ -22,7 +22,7 @@
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=Joyvin&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Joyvin&limit=8&theme=github_dark&combine_all_yearly_contributions=true&hide_border=false&border_radius=10)
 
 # ✨ Contribution Graph
 
