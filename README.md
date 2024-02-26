@@ -26,7 +26,7 @@
 
 # ✨ Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Alstudd&bg_color=333333&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Joyvin&bg_color=333333&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Joyvin&icon=0&color=0)](https://visitcount.itsvg.in)
