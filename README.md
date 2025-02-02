@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center"> <img src="https://www.joyvin.tech/img/myLogo2.png" alt="Logo" align="center" height="50"> |  Joyvin Mendonca</h1>
+<h1 align="center"> <img src="https://joyme.vercel.app/img/myLogo2.png" alt="Logo" align="center" height="50"> |  Joyvin Mendonca</h1>
 <h3 align="center">A passionate web and cloud developer from India</h3>
 
 # 💻 Tech Stack:
